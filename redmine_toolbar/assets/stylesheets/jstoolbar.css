@@ -1,13 +1,13 @@
 /* SQL formatting button */
 .jstb_sql {
-        background-image: url(bt_sql.png);
+        background-image: url(./../images/bt_sql.png);
 }
-/* SQL formatting button */
+/* CPP formatting button */
 .jstb_cpp {
-        background-image: url(bt_cpp.png);
+        background-image: url(./../images/bt_cpp.png);
 }
-/* SQL formatting button */
+/* IMG size 50% button */
 .jstb_imr {
-        background-image: url(bt_imr.png);
+        background-image: url(./../images/bt_imr.png);
 }
 
